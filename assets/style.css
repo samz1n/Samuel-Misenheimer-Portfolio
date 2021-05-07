@@ -18,7 +18,7 @@
 display: flex;
 list-style: none;
 margin: 20px 0px;
-font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
 }
 
 .navbar ul li a{
@@ -75,7 +75,7 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 }
 .btn{
   padding: 10px 35px;
-  background color: transparent;
+  background-color: transparent;
   border: 1px solid white;
   color: black;
   outline: none;
@@ -86,9 +86,39 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
   cursor: pointer;
   background-color: white;
   color: black;
-  box shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white;
+  box-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white;
   font-weight: bold;
 }
 
 /* About Me */
+#about{
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+#pic{
+  display: flex;
+}
+
+#pic img{
+  width: 375px;
+  height: 500px;
+}
+
+#intro{
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  padding: 10px;
+}
+
+#intro h2{
+  font-size: 2rem;
+margin-bottom: 20px;
+}
+
+/* Portfolio */
 
