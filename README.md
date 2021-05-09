@@ -10,7 +10,7 @@ https://samz1n.github.io/Samuel-Misenheimer-Portfolio/
 * Automatically resize the website to fit various devices.
 * Make a contact section where the user can type responses.
 
-<img src="./assets/sc1.png"/>
-<img src="./assets/sc2.png"/>
-<img src="./assets/sc3.png"/>
-<img src="./assets/sc4.png"/>
+<img src="./assets/sc1.PNG"/>
+<img src="./assets/sc2.PNG"/>
+<img src="./assets/sc3.PNG"/>
+<img src="./assets/sc4.PNG"/>
