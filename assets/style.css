@@ -223,3 +223,26 @@ margin: 10px;
   cursor: pointer;
   box-shadow: 0 0 10px white;
 }
+
+@media screen and (max-width: 980px) {
+  
+  .navbar {
+    justify-content: center;
+    flex-basis: 100%;
+  }
+  
+  
+  .headings {
+    padding: 0 0 10px 0;
+    justify-content: center;
+    text-align: center;
+  }
+  #pic img {
+    flex-basis: 100%;
+    justify-content: flex-start;
+  }
+  #intro {
+    flex-basis: 100%;
+    text-align: center;
+  }
+}
