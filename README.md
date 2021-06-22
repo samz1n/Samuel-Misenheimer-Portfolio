@@ -10,7 +10,13 @@ https://samz1n.github.io/Samuel-Misenheimer-Portfolio/
 * Automatically resize the website to fit various devices.
 * Make a contact section where the user can type responses.
 
+## Technologies used
+* HTML
+* CSS
 <img src="./assets/sc1.PNG"/>
 <img src="./assets/sc2.PNG"/>
 <img src="./assets/sc3.PNG"/>
 <img src="./assets/sc4.PNG"/>
+
+## Contact Information
+samisen00@hotmail.com
