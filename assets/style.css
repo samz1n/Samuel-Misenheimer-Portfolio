@@ -161,7 +161,7 @@ height: 240px;
 margin: 10px;
 }
 
-.stocks, .quiz{
+.stocks, .quiz, .wdplanner{
 display:flex;
 flex-wrap: wrap;
 text-align: justify;
