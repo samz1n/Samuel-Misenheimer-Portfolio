@@ -20,3 +20,5 @@ https://samz1n.github.io/Samuel-Misenheimer-Portfolio/
 
 ## Contact Information
 samisen00@hotmail.com
+
+MIT License
